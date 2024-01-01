@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaaS Products Import", "SaaS Products Import.csproj", "{04BD1E6D-5406-47D0-A92C-D223647B2589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BD1E6D-5406-47D0-A92C-D223647B2589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BD1E6D-5406-47D0-A92C-D223647B2589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BD1E6D-5406-47D0-A92C-D223647B2589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BD1E6D-5406-47D0-A92C-D223647B2589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73ADF0ED-885F-4EDF-836F-019A479FCE7B}
+	EndGlobalSection
+EndGlobal
