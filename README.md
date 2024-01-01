@@ -32,7 +32,7 @@ To run tests, execute dotnet test in the Tests directory.
 ----
 
 Code Location:
-The code can be found in the SaaS Products Import.sln (Open in Visual Studio).
+The code can be found here: https://github.com/Nand480/saas-products-import.git
 
 ----
 
